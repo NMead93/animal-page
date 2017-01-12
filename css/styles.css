@@ -1,0 +1,7 @@
+.TurtlePage, .SnakePage, .InsectPage {
+  display: none;
+}
+
+.options button {
+  display: none;
+}
